@@ -1,2 +1,4 @@
 # hello-world
-hanya halo-halo
+Saya Samudra P. Buana
+Sedang belajar Java menggunakan Red Hat CodeReady Toolchain
+
